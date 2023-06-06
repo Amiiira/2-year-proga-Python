@@ -1,6 +1,6 @@
 # Лабораторные работы 2 курса
 ********
-![Изображение]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png](https://unsplash.com/photos/ieic5Tq8YMk) "Логотип Markdown")
+![Изображение]((https://unsplash.com/photos/ieic5Tq8YMk) "Логотип Markdown")
 ## 3 семестр:
 
 [Лабораторная работа](https://replit.com/@AmiraZukhir/Calculate) : калькулятор с unit-тестами, который был модернизирован в течении семестра
